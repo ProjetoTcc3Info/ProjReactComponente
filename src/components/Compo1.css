@@ -1,8 +1,8 @@
 
 
 .Fi1{
-    width: 400px ;
-    height: 200px;
+    width: 450px ;
+    height: 250px;
     text-align: left;
     background-color: rgb(36, 36, 36);
     padding: 10px;
@@ -12,5 +12,47 @@
 }
 
 .Fi1 label{
-    color:azure;
+    color:rgb(242, 255, 186);
+    background-color: rgb(44, 44, 44);
+    padding: 7px;
+    border-radius: 5px;
+}
+
+.Fecha{
+    float:right;
+    color: rgb(242, 255, 186);
+    cursor: pointer;
+}
+
+.CompoBody{
+
+    align-items:center;
+    display: flex;
+    padding: 10px;
+    height: 50%;
+    justify-content: space-around;
+   
+
+}
+
+.CompoFooter{
+    color: rgb(83, 83, 83);
+}
+.CompoFooter p{
+    
+ 
+    float:right;
+    margin-left: 10px;
+    margin-bottom: 40px;
+} 
+
+
+
+.BtnArea button{
+    
+    width: 50%;
+}
+.BtnArea{
+    display: flex;
+  
 }
