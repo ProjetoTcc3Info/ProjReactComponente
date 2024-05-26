@@ -1,0 +1,16 @@
+
+
+.Fi1{
+    width: 400px ;
+    height: 200px;
+    text-align: left;
+    background-color: rgb(36, 36, 36);
+    padding: 10px;
+    border-radius: 2%;
+    border: solid 3px rgb(88, 88, 88);
+
+}
+
+.Fi1 label{
+    color:azure;
+}
